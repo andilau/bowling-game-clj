@@ -1,7 +1,7 @@
-# bowling-game-clj
+# Bowling-Game Kata
 
-´´´shell
+```shell
 lein new speclj bowling-game-clj
 idea bowling-game-clj
 lein spec -a
-´´´
+```
